@@ -1,2 +1,2 @@
-# Ejercicio_ParImpar_B
+# EjercicioEureka
 Created with CodeSandbox
